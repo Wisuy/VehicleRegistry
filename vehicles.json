@@ -1,0 +1,212 @@
+[
+    {
+        "vehicle_type": "car",
+        "brand": "Toyota",
+        "engine_capacity": 1600,
+        "color": "White",
+        "reg_number": "AB 12 XYZ",
+        "reg_date": "2025-01-10",
+        "owner": "Alex Popescu",
+        "last_inspection": "2025-06-20"
+    },
+    {
+        "vehicle_type": "motorcycle",
+        "brand": "Honda",
+        "engine_capacity": 600,
+        "color": "Black",
+        "reg_number": "MH 45 TRF",
+        "reg_date": "2024-07-15",
+        "owner": "Ion Marinescu",
+        "last_inspection": "2025-07-01"
+    },
+    {
+        "vehicle_type": "truck",
+        "brand": "Volvo",
+        "engine_capacity": 5000,
+        "color": "Blue",
+        "reg_number": "TR 99 VOL",
+        "reg_date": "2023-03-12",
+        "owner": "Transport SRL",
+        "last_inspection": "2025-02-20"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Ford",
+        "engine_capacity": 2000,
+        "color": "Gray",
+        "reg_number": "B 123 CAR",
+        "reg_date": "2025-04-01",
+        "owner": "Maria Ionescu",
+        "last_inspection": "2025-09-10"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "BMW",
+        "engine_capacity": 3000,
+        "color": "Black",
+        "reg_number": "B 987 BMW",
+        "reg_date": "2025-05-05",
+        "owner": "Dan Radu",
+        "last_inspection": "2025-10-01"
+    },
+    {
+        "vehicle_type": "motorcycle",
+        "brand": "Yamaha",
+        "engine_capacity": 1000,
+        "color": "Red",
+        "reg_number": "BV 12 RAC",
+        "reg_date": "2024-08-20",
+        "owner": "Cristi Vlad",
+        "last_inspection": "2025-08-20"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Nissan",
+        "engine_capacity": 1800,
+        "color": "Green",
+        "reg_number": "CJ 456 NIS",
+        "reg_date": "2025-03-15",
+        "owner": "Ana Petrescu",
+        "last_inspection": "2025-09-01"
+    },
+    {
+        "vehicle_type": "truck",
+        "brand": "Mercedes",
+        "engine_capacity": 4500,
+        "color": "White",
+        "reg_number": "MS 321 TRK",
+        "reg_date": "2024-12-01",
+        "owner": "Logistica SRL",
+        "last_inspection": "2025-07-15"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Audi",
+        "engine_capacity": 2500,
+        "color": "Silver",
+        "reg_number": "TM 876 AUD",
+        "reg_date": "2025-02-20",
+        "owner": "Roxana Mihai",
+        "last_inspection": "2025-07-20"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Kia",
+        "engine_capacity": 1600,
+        "color": "Blue",
+        "reg_number": "B 123 KIA",
+        "reg_date": "2025-06-10",
+        "owner": "Vlad Georgescu",
+        "last_inspection": "2025-10-30"
+    },
+    {
+        "vehicle_type": "motorcycle",
+        "brand": "Suzuki",
+        "engine_capacity": 750,
+        "color": "Yellow",
+        "reg_number": "GL 78 MOT",
+        "reg_date": "2025-01-25",
+        "owner": "Radu Dumitrescu",
+        "last_inspection": "2025-06-15"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Hyundai",
+        "engine_capacity": 1400,
+        "color": "Red",
+        "reg_number": "PH 456 HYU",
+        "reg_date": "2025-07-15",
+        "owner": "Elena Stoica",
+        "last_inspection": "2025-11-01"
+    },
+    {
+        "vehicle_type": "truck",
+        "brand": "MAN",
+        "engine_capacity": 4800,
+        "color": "Green",
+        "reg_number": "B 900 MAN",
+        "reg_date": "2024-05-10",
+        "owner": "Transport Rapid SRL",
+        "last_inspection": "2025-05-20"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Peugeot",
+        "engine_capacity": 1600,
+        "color": "White",
+        "reg_number": "IS 789 PEU",
+        "reg_date": "2025-08-01",
+        "owner": "Mihai Nistor",
+        "last_inspection": "2025-11-05"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Renault",
+        "engine_capacity": 1300,
+        "color": "Blue",
+        "reg_number": "B 321 REN",
+        "reg_date": "2025-03-30",
+        "owner": "Ioana Lupu",
+        "last_inspection": "2025-09-15"
+    },
+    {
+        "vehicle_type": "motorcycle",
+        "brand": "Ducati",
+        "engine_capacity": 1100,
+        "color": "Red",
+        "reg_number": "TM 11 DUC",
+        "reg_date": "2024-09-10",
+        "owner": "Alexandru Matei",
+        "last_inspection": "2025-09-10"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Mazda",
+        "engine_capacity": 2000,
+        "color": "Silver",
+        "reg_number": "CJ 45 MZD",
+        "reg_date": "2025-04-20",
+        "owner": "Sorina Filip",
+        "last_inspection": "2025-09-25"
+    },
+    {
+        "vehicle_type": "truck",
+        "brand": "Scania",
+        "engine_capacity": 5200,
+        "color": "Blue",
+        "reg_number": "BV 123 TRK",
+        "reg_date": "2023-11-05",
+        "owner": "Transport Express SRL",
+        "last_inspection": "2025-03-30"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Volkswagen",
+        "engine_capacity": 1800,
+        "color": "Gray",
+        "reg_number": "B 987 VWG",
+        "reg_date": "2025-02-10",
+        "owner": "Florin Ene",
+        "last_inspection": "2025-08-15"
+    },
+    {
+        "vehicle_type": "car",
+        "brand": "Seat",
+        "engine_capacity": 1400,
+        "color": "Green",
+        "reg_number": "AG 123 SEA",
+        "reg_date": "2025-06-20",
+        "owner": "Gabriela Pop",
+        "last_inspection": "2025-11-01"
+    },
+    {
+        "vehicle_type": "truck",
+        "brand": "Miata",
+        "engine_capacity": 1500,
+        "color": "Red",
+        "reg_number": "DJ91ALB",
+        "reg_date": "2025-11-09",
+        "owner": "Alin Covotaru",
+        "last_inspection": "2025-11-09"
+    }
+]
